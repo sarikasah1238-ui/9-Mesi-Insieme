@@ -91,4 +91,4 @@
       margin: 7px 0 10px 0;
       font-family: 'Dancing Script', cursive;
       text-align: center;
-      letter-spacing: 0.
+      letter-spacing: 0..
